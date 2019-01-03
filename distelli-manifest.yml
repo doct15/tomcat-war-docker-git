@@ -1,4 +1,4 @@
-martiszj/tomcat-war-docker-git:
+bmcgehee/tomcat-war-docker-git:
 
   Env:
     # Set the below enviornment variables for your environment
